@@ -10,6 +10,7 @@ Each file represents one day of structured learning — concept first, then a mi
 |-----|-------|---------|
 | Day 01 | Variables, types, f-strings, user input | Personal bio generator |
 | Day 02 | Functions, lists, dictionaries | Arsenal squad tracker |
+| Day 03 | Conditionals, loops, nested data | Premier League search engine |
 
 ## Stack
 - Python 3
