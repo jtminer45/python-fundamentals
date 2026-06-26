@@ -12,6 +12,7 @@ Each file represents one day of structured learning — concept first, then a mi
 | Day 02 | Functions, lists, dictionaries | Arsenal squad tracker |
 | Day 03 | Conditionals, loops, nested data | Premier League search engine |
 | Day 04 | File I/O, string operations | Player stats save system |
+| Day 05 | Error handling, modules, validation | Bulletproof player stats system |
 
 ## Stack
 - Python 3
