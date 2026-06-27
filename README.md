@@ -14,6 +14,7 @@ Each file represents one day of structured learning — concept first, then a mi
 | Day 04 | File I/O, string operations | Player stats save system |
 | Day 05 | Error handling, modules, validation | Bulletproof player stats system |
 | Day 06 | OOP, classes, inheritance | Football club OOP system |
+| Day 07 | Week 1 review | Football league management system |
 
 ## Stack
 - Python 3
