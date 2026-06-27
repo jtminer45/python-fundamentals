@@ -15,6 +15,7 @@ Each file represents one day of structured learning — concept first, then a mi
 | Day 05 | Error handling, modules, validation | Bulletproof player stats system |
 | Day 06 | OOP, classes, inheritance | Football club OOP system |
 | Day 07 | Week 1 review | Football league management system |
+| Day 08 | NumPy arrays, broadcasting, 2D indexing | Premier League stats analyser |
 
 ## Stack
 - Python 3
