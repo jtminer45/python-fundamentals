@@ -21,6 +21,7 @@ Each file represents one day of structured learning — concept first, then a mi
 | Day 11 | Data cleaning, missing values, outliers | Titanic dataset analysis |
 | Day 12 | EDA, distributions, correlation analysis | Titanic full EDA report |
 | Day 13 | ML, Logistic Regression, Random Forest | Titanic survival predictor |
+| Day 14 | ML consolidation, feature engineering | Improved Titanic survival predictor |
 
 ## Stack
 - Python 3
